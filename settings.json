@@ -1,9 +1,12 @@
 {
   "microsoft": {
+//     From Azure Portal,  Cognitive Services, Keys
     "key": "c75d85e68acc47b9951e9d84e7cff921",
+//     From Azure Portal,  Cognitive Services, Overview, Endpoint
     "endpoint": "https://eastus.api.cognitive.microsoft.com/sts/v1.0/issuetoken",
+//     From https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech#convert-text-to-speech match Region
     "regionendpoint": "https://eastus.tts.speech.microsoft.com/cognitiveservices/v1",
     "voice": "BenjaminRUS"
   },
-	  "port": 5005,
-	}
+  "port": 5005,
+}
