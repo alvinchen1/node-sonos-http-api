@@ -1,7 +1,9 @@
-﻿{
+{
   "microsoft": {
-    "key": "5c42a4050da1459bada8d0aa3e36d6ed",
+    "key": "c75d85e68acc47b9951e9d84e7cff921",
+    "endpoint": "https://eastus.api.cognitive.microsoft.com/sts/v1.0/issuetoken",
+    "regionendpoint": "https://eastus.tts.speech.microsoft.com/cognitiveservices/v1",
     "voice": "BenjaminRUS"
   },
-  "port": 5005,
-}
+	  "port": 5005,
+	}
